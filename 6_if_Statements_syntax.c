@@ -12,11 +12,19 @@
 
 
 int main(){     // if-else Example
-    int A = 5;
-    if(A > 20){
-        printf("A is bigger than 20");
-    }else{
-        printf("A is less than 20");
-    }
+   int a = 100;
+   float r = 300;
+   int x = 550;
+
+   if (a == 100){
+       if(1)
+           printf("Hello");
+       printf(" Ali");
+   }
+   else{
+       printf("Hello World");
+   }
+
+
 
 }

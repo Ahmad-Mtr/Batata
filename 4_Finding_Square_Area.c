@@ -4,9 +4,9 @@
 #include <stdio.h>
 
 int main() {
-    float r = 20;
+   int r = 20;
 
-    float Square_Area = r * r;
+   int Area = r * r;
+   printf("ARea: %d", Area);
 
-    printf("The Square's Area is: %f", Square_Area);
 }
